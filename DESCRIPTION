@@ -1,7 +1,7 @@
 Package: DegNorm
 Type: Package
 Title: DegNorm: degradation normalization for RNA-seq data
-Version: 1.19.1
+Version: 1.20.0
 Date: 2025-08-11
 Authors@R:
     person("bin", "Xiong",
